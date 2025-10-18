@@ -19,7 +19,7 @@ import restoroadview from "./image/restoroadview.JPG";
 import beach from "./image/beach.jpg";
 import video1 from "./image/video1.mp4";
 import video2 from "./image/video2.mp4";
-import video3 from "./image/video3.mp4";
+import video3 from "./image/video2.mp4";
 
 export const assets = {
   upview,
