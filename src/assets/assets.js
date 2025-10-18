@@ -3,7 +3,6 @@ import ground from "./image/ground.jpg";
 import door from "./image/door.jpg";
 import fullroom from "./image/full-room1.1.jpg";
 import fullroom1 from "./image/full-room1.jpg";
-import fullroom2 from "./image/full-room2.jpg";
 import room from "./image/room.jpg";
 import kingsize from "./image/kingsize.jpg";
 import queensize from "./image/queensize.JPG";
@@ -27,7 +26,6 @@ export const assets = {
   door,
   fullroom,
   fullroom1,
-  fullroom2,
   room,
   kingsize,
   queensize,
