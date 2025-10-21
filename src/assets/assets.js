@@ -19,6 +19,9 @@ import beach from "./image/beach.jpg";
 import video1 from "./image/video1.mp4";
 import video2 from "./image/video2.mp4";
 import video3 from "./image/video2.mp4";
+import light1 from "./image/light1.jpg";
+import light2 from "./image/light2.jpg";
+import light3 from "./image/light3.jpg";
 
 export const assets = {
   upview,
@@ -37,6 +40,9 @@ export const assets = {
   resto,
   ground2,
   roomview,
+  light1,
+  light2,
+  light3,
   restoroadview,
   beach,
   video1,
